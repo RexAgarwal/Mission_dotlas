@@ -9,30 +9,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - [Mission Dotlas 🌎](#mission-dotlas-)
   - [Overview](#overview)
-    - [About us](#about-us)
     - [The Mission](#the-mission)
-  - [Getting started](#getting-started)
-    - [Create a Private fork](#create-a-private-fork)
-    - [Install Python `v3.9` or higher](#install-python-v39-or-higher)
-    - [Install dependencies](#install-dependencies)
-    - [Get crackin'](#get-crackin)
-    - [Learning resources](#learning-resources)
-  - [Evaluation](#evaluation)
-    - [Submission](#submission)
-    - [Criteria](#criteria)
-    - [Nice-to-have](#nice-to-have)
-    - [Contact](#contact)
-
-> **Warning**
->
-> **Applicants will be disqualified if they make a public fork of this repository.**
-> Create a [private fork](#create-a-private-fork) instead.
-
-## Overview
-
-### About us
-
-We at [Dotlas](https://dotlas.com) are building a suite of products for controlling, optimizing & growing retail businesses through AI-driven insights.
 
 ### The Mission
 
