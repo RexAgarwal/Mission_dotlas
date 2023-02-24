@@ -7,9 +7,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-Part-Time Data Engineer Assessment
-
 - [Mission Dotlas 🌎](#mission-dotlas-)
   - [Overview](#overview)
     - [About us](#about-us)
@@ -71,5 +68,3 @@ Your mission, should you choose to accept it, is to transform, process and analy
 <p align="center">
   <img src="https://media0.giphy.com/media/3owzW2gwRKOG68Xu4E/giphy-downsized.gif?cid=6104955ec91oi7atpb4ge6dcogeal6fip5bwyqqgcz8e055y&rid=giphy-downsized.gif&ct=g" alt="Star Wars Map" />
 </p>
-
-## Getting started
